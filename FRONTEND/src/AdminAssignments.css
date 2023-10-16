@@ -1,0 +1,95 @@
+/* Styling for the outer container */
+.he1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  /* Styling for the heading */
+  .back {
+    background-color: cornflowerblue;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .back h1 {
+    margin: 0;
+    font-size: 28px;
+    color: #fff;
+  }
+  
+  /* Styling for the registration form container */
+  .bod9 {
+    background-color: wheat;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 70%;
+    max-width: 400px;
+    margin-left: 500px;
+
+  }
+  
+  /* Styling for the form labels */
+  .reservation-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  /* Styling for the form inputs */
+  .reservation-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 5px;
+  }
+  
+  /* Styling for the Register button */
+  .reservation-form button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Styling for the Register button on hover */
+  .reservation-form button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Styling for the form group container */
+  .clr {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 70px;
+    padding:0px;
+  }
+  
+  /* Styling for the marquee */
+  marquee {
+    margin: 10px 0;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  
+  /* Styling for the paragraph below marquee */
+  .bod9 p {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+  }
+  
+ .reg
+ {
+    margin-left: 60px;
+ }

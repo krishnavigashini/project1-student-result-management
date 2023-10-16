@@ -1,0 +1,39 @@
+.div-user
+{
+    padding-top: 100px;
+    padding-left: 350px;
+    float: left;
+    text-decoration: none;
+}
+.div-admin
+{
+    padding-top: 100px;
+    padding-right: 350px;
+    float: right;
+}
+.div-admin,.div-user,h3
+{
+    text-align: center;
+}
+.title
+{
+    padding-left: 500px;
+
+}
+body
+{
+    background-image: url("images/bg.jpg");
+    /* background-size: cover; */
+    /* background: radial-gradient(circle, rgba(222,222,229,0) 0%, rgb(117, 127, 164) 100%);
+    background: rgb(222,222,229); */
+}
+.link-user-login,.link-user-login:visited,.link-user-login:link
+{
+    color: black;
+    text-decoration: none;
+}
+.link-admin-login,.link-admin-login:visited,.link-admin-login:link
+{
+    color: black;
+    text-decoration: none;
+}
